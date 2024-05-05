@@ -465,12 +465,12 @@ const form=document.querySelector('form');
 form.addEventListener("submit",stampaOggettiottenuti);
 
 // chiave api normale
-const key='1';
+const key='';
 
 
 // OAuth credenziali
-const client_id = '91cfc525a59542d09aa26b6d2a06dbd0';
-const client_secret = 'a1f16f99d40f4282aec61a64caeb99bb';
+const client_id = '';
+const client_secret = '';
 // Dichiara variabile token
 let token;
 // chiamata per il token
